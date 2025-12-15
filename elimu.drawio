@@ -1,0 +1,33 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Page-1" id="7wAlert4ztxPim9zM4VI">
+    <mxGraphModel dx="1572" dy="1020" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RXOGwWXSMEPhoQth54gz-9" edge="1" parent="1" source="RXOGwWXSMEPhoQth54gz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RXOGwWXSMEPhoQth54gz-1" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="180" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RXOGwWXSMEPhoQth54gz-2" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" value="" vertex="1">
+          <mxGeometry height="45" width="50" x="450" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="RXOGwWXSMEPhoQth54gz-3" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Tower_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="330" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="RXOGwWXSMEPhoQth54gz-5" parent="1" style="shape=datastore;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="350" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="RXOGwWXSMEPhoQth54gz-6" parent="1" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.authentication_google;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="290" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="RXOGwWXSMEPhoQth54gz-7" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/intune/Device_Security_Google.svg;" value="" vertex="1">
+          <mxGeometry height="69" width="68" x="370" y="525.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
