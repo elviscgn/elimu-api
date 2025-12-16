@@ -1,4 +1,4 @@
-package com.elimu.portal.config;
+package com.elimu.config;
 
 public class SecurityConfig {
 }
